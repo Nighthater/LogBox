@@ -1,1 +1,1 @@
-# LogBox-Template
+# LogBox
